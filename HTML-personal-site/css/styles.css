@@ -1,0 +1,27 @@
+body {
+    background-color: #393E46;
+    color: #EEEEEE;
+}
+
+a:link {
+    color: #EEEEEE;
+}
+
+a:visited {
+    color: #EEEEEE;
+}
+
+hr {
+    border-style: none;
+    background-color: grey;
+    height: 2px;
+    width: 100%
+}
+
+h1 {
+    color: #00ADB5;
+}
+
+h3 {
+    color: #00ADB5;
+}
