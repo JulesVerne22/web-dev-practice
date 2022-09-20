@@ -1,3 +1,36 @@
 body {
-    background-color: blue;
+    margin: 0px;
+    background-color: #EEEEEE;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+.top-container {
+    background-color: #393E46;
+    color: #00ADB5;
+    margin: 0px;
+    text-align: center;
+    padding: 30px;
+    position: relative;
+    height: 700px;
+}
+
+.center-title {
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.gecko-img {
+    width: 400px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
